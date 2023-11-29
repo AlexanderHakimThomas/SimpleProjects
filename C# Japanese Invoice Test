@@ -1,0 +1,10 @@
+Generating invoices for customer "Contoso Corp" ...
+
+Invoice: 1021            Complete!
+Invoice: 1022            Complete!
+
+Output Directory:
+c:\invoices
+
+日本の請求書を生成するには：
+    c:\invoices\app.exe -j
