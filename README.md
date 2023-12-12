@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlexanderHakim
-- 👀 I’m interested in Cloud Platform and Artificial Intelligence
-- 🌱 I’m currently learning Linux, Google Cloud & Python
-- 💞️ I’m looking to collaborate on projects that build for the next gen future
+- 👋 Hi, I’m @AlexanderHakimThomas
+- 👀 I’m invested in Cloud Platforms, Software and AI
+- 🌱 I’m a Cloud & Software Engineer
+- 💞️ I’m looking to collaborate and build meaningful projects
 - 📫 Reach me through www.linkedin.com/in/alexander-hakim-thomas
 
 <!---
