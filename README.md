@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexanderHakimThomas
+- 👋 Hi, I’m @AlexHakim
 - 👀 I’m invested in Cloud Platforms, Software and AI
 - 🌱 I’m a Cloud Enginner & Programmer
 -  Collaborate and build 
