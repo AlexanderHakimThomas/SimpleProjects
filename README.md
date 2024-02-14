@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AlexHakim
-- 👀 I’m invested in Cloud Platforms, Software and AI
-- 🌱 I’m a Cloud Enginner & Programmer
--  Collaborate and build 
-- 📫 Reach me through www.linkedin.com/in/alexander-hakim-thomas
+Japan Invoice Helper
+This tool simplifies the creation and/or validation of invoices compliant with Japanese standards.
 
-<!---
-AlexanderHakim/AlexanderHakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technologies:
+C#
+.NET Framework
+
+
+
+
+
+My Simple Website Builder
+This tool helps you quickly create a customisable personal website.
